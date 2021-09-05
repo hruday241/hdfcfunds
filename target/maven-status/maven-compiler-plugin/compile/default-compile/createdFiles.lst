@@ -1,0 +1,6 @@
+hruday\CalcEndpoint.class
+hruday\App.class
+hruday\AppConfig.class
+hruday\CalcEndpoint$Result.class
+hruday\AppConfig$JerseyConfig.class
+hruday\AppConfig$JacksonMessagePackProvider.class
